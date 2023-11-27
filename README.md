@@ -8,4 +8,7 @@ An interactive map program using the folium library.
 * Discrete legend
 * Click for coordinates
 * Movable markers
-  
+
+# Usage
+
+Run map_obscured.py in its directory. A new browser window will open with the map.
